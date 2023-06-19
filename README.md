@@ -2,7 +2,7 @@
 
 I'm currently enrolled in the MsC course in Computer Science at the Ca' Foscari University, in Venice :it:
 - 🔭 I love working on web applications, in particular on the client side, using **Vue.js**
-- 🌱 I'm also into Computer Vision, where I mainly use **OpenCV** and **Tensorflow**
+- 🌱 I'm currently learning Computer Vision, where I mainly use **OpenCV** and **Tensorflow** with **Python**
 - 📫 How to reach me: **you can send me an [email](mailto:alessio.narder@gmail.com)**
   
 <!--
